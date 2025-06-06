@@ -39,7 +39,6 @@
             left: 0;
             width: 100%;
             height: 120px;
-            /* Adjust height for better fade */
             z-index: 1;
             pointer-events: none;
         }
