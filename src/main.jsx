@@ -8,7 +8,7 @@ import {initialState, reducer} from './Utility/reducer'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/Amazon-Project-Class-2025">
+  <BrowserRouter basename="/amazon-frontend-netlify">
   <DataProvider>
     <App />
   </DataProvider>
