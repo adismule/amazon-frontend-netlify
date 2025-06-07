@@ -1,6 +1,5 @@
 {
-  "homepage": "https://adismule.github.io/amazon-frontend-netlify",
-  "name": "amazon-project",
+  "name": "amazon-frontend",
   "private": true,
   "version": "0.0.0",
   "type": "module",
